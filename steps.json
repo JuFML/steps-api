@@ -5,7 +5,7 @@
       "description": "Entender o problema do cliente",
     },
     {
-      "id":"crypto.randomUUID()",
+      "id": "crypto.randomUUID()",
       "description": "Desenvolver a solução do problema",
     },
     {
