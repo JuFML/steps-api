@@ -1,4 +1,4 @@
-
+{
   [
     {
       id: crypto.randomUUID(),
@@ -14,4 +14,4 @@
         "Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro",
     },
   ];
-
+}
