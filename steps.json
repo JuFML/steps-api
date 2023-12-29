@@ -1,14 +1,14 @@
 [
   {
-    "id": crypto.randomUUID(),
+    "id": "kjh-oiu-tgf",
     "description": "Entender o problema do cliente"
   },
   {
-    "id": crypto.randomUUID(),
+    "id": "ijs-aqw-jdy",
     "description": "Desenvolver a solução do problema"
   },
   {
-    "id": crypto.randomUUID(),
+    "id": "psk-ats-fht",
     "description":
       "Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro"
   }
